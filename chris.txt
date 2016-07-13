@@ -5,3 +5,4 @@ git status  - To see what's been added, but not commited.
 git add (file name) - To add file to "Staging Area"
 git commit - To commit file to the repo.
 git log - To see what's been commited/changed, but not pushed
+git remote -v - Show the alias and url for both fetch and pull of the repository
