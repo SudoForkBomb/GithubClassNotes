@@ -1,7 +1,7 @@
 Hello World!
 
 git init - To setup git on a folder.
-git status  - To see what's going on.
+git status  - To see what's been added, but not commited.
 git add (file name) - To add file to "Staging Area"
-git commit - To commit file
-git log - To see what's been commited/changed
+git commit - To commit file to the repo.
+git log - To see what's been commited/changed, but not pushed
