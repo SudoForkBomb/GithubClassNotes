@@ -1,4 +1,5 @@
 Hello World!
+
 git init - To setup git on a folder.
 git status  - To see what's going on.
 git add (file name) - To add file to "Staging Area"
